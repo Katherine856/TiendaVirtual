@@ -3,7 +3,7 @@
 ## Integrantes:
 
 
-## Planteamineto del problema
+## Planteamiento del problema
 
 
 ## Roles
